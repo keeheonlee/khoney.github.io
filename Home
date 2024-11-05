@@ -1,7 +1,3 @@
-“$ mkdir my-website”
-“$ git clone https://github.com/keeheon-lee/keeheon-lee.github.io”
-“$ touch index.html”
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
