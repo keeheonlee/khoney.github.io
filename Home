@@ -25,3 +25,6 @@
     </section>
 </body>
 </html>
+
+“$ mkdir my-website”
+“$ git clone https://github.com/keeheon-lee/keeheon-lee.github.io”
