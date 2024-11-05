@@ -1,7 +1,27 @@
-echo "# khoney.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/keeheonlee/khoney.github.io.git
-git push -u origin main
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keeheon Lee</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Khoney's Website</h1>
+    </header>
+    <section>
+        <h2>CV</h2>
+        <p>[Link or embed your CV]</p>
+    </section>
+    <section>
+        <h2>Research</h2>
+        <p>Describe your research interests here.</p>
+    </section>
+    <section>
+        <h2>Teaching</h2>
+        <p>Information about your teaching experience and materials.</p>
+    </section>
+    <section>
+        <h2>Contact</h2>
+        <p>Describe your research interests here.</p>
+    </section>
+</body>
+</html>
